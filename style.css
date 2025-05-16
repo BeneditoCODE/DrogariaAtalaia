@@ -1,0 +1,82 @@
+.cabecalho {
+    background-color: #60a41f;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.Compre-aqui {
+    background-color: #47821a;
+    color: #ffffff;
+    cursor: pointer;
+    border: 0;
+    border-radius: 10px;
+    transition: .2s;
+}
+
+.Compre-aqui:hover {
+    background-color: #0f2b4b;
+    transform: scale(1.05);
+}
+
+.Contato {
+    background-color: #0f2b4b;
+    color: #ffffff;
+    cursor: pointer;
+    border: 0;
+    border-radius: 10px;
+    transition: .2s;
+}
+
+.Contato:hover {
+    background-color: #47821a;
+    color: #0f2b4b;
+    transform: scale(1.05);
+}
+
+a {
+   
+    color: white;
+    transition: .2s;
+}
+
+a:hover {
+    color: #0f2b4b;
+    transform: scale(1.05);
+}
+
+.sobre {
+    background-color: #ffffff;
+}
+
+.sobre a {
+    color: #47821a;
+    transition: .2s;
+}
+
+.sobre a:hover {
+    color: #0f2b4b;
+    transform: scale(1.05);
+
+}
+
+h1, p{
+    color: #47821a;
+}
+span{
+    color: #ffffff;
+}
+.REMEDIOS{
+    display: flex;
+    flex-direction: row;
+    gap: 20px ;
+}
+.REMEDIOS a{
+     background-color: #0f2b4b;
+     color: #ffffff
+}
+.formulario{
+    background-color: #0f2b4b;
+}
